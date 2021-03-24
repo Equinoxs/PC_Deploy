@@ -1,0 +1,10 @@
+0. Editer au préalable le fichier Installer.bat
+
+1. Installer WinGet via l'url WinGet (le fichier appxbundle)
+2. Lancer Installer.bat
+3. Installer les Logiciels dans Installateurs
+4. Appliquer les paramètres dans Paramètres
+5. Appliquer le fond d'écran
+
+
+--Equinoxs 2021--
