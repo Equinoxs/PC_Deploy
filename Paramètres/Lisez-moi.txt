@@ -1,0 +1,1 @@
+Mettre ici les paramètres à appliquer à Windows ou Linux (à exécuter àpres le script)
